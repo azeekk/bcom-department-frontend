@@ -23,9 +23,9 @@ const Teachers = () => {
     axios
     .get("https://bca-department-backend-production.up.railway.app/api/collections") // Replace with your actual API endpoint
     .then((response) => {
-      const bcaTeachers = response.data.BCA;
-      console.log(bcaTeachers);
-      setData(bcaTeachers);
+      const bcomTeachers = response.data.Bcom;
+      console.log(bcomTeachers);
+      setData(bcomTeachers);
       setLoading(false);
     })
     .catch((error) => {

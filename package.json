@@ -1,7 +1,7 @@
 {
-  "name": "bca_department",
+  "name": "bcom_department",
   "private": true,
-  "homepage": "https://azeekk.github.io/bca-department/",
+  "homepage": "https://azeekk.github.io/bcom-department-frontend/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
