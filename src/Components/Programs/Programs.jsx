@@ -14,10 +14,7 @@ const Programs = () => {
 
         </div>
         <div className='bottom'>
-        <h4 className='program_heading'>Programs</h4>
-        <p className='program_paragraph'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis,
-           cumque accusantium iusto vero aut delectus consectetur itaque dolorum quae
-            iste nostrum quod, distinctio magnam! Nulla quod ullam cupiditate quasi nostrum.</p>
+        <p className='program_paragraph'>The B.Com (Bachelor of Commerce) Department is a core academic unit in universities and colleges that focuses on commerce, finance, business management, and economics. It provides students with a strong foundation in business principles, financial accounting, taxation, and entrepreneurship.</p>
           
         </div>
       </div>    
